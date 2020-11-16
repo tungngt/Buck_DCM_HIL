@@ -1,5 +1,5 @@
 clear;
-T = 5e-4;
+T = 2e-4;
 %% DCM Model 
     Udm = 220;          Idm = 21;
     ndm = 1000;         wdm = ndm/9.55;
